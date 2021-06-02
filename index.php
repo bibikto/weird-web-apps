@@ -1,1 +1,1 @@
-<?php include_once("among-us-eta/index.html"); ?>
+<?php include_once("./among-us-eta/index.html"); ?>
