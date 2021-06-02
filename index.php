@@ -1,0 +1,1 @@
+<?php include_once("among-us-eta/index.html"); ?>
